@@ -1,9 +1,9 @@
 // internal — do not share
 export const FIXED_TEAMS = [
   { id: 1, members: ["Saood", "Deepak", "Keerthana"] },
-  { id: 2, members: ["Rithik", "Rifana", "Musthaq"] },
+  { id: 2, members: ["Mubashir", "Rifana", "Musthaq"] },
   { id: 3, members: ["Amrutha", "Bency", "Ajanya"] },
-  { id: 4, members: ["Mubashir", "Nandhana", "Shalu"] },
+  { id: 4, members: ["Rithik", "Nandhana", "Shalu"] },
   { id: 5, members: ["Nandhalal", "Musthafa", "Diya"] },
 ];
 
